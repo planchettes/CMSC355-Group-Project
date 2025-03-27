@@ -7,5 +7,5 @@ Groupmembers:
 
 ------------------ Fill in some information about your project under this ------------------
 
-                             MedBot - Drug Interaction Tracker
+                           MedBot - Drug Interaction Tracker
                              
